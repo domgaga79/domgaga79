@@ -1,7 +1,7 @@
 - 👋 Oi, I’m @domgaga79
-- 👀 I’m interested in programming: HTML, CSS, JS, PHP_OO, MySql, Python.  
-- 🌱 I’m currently learning: WebServices, REST, SOAP.
-- 💞️ I’m looking to collaborate on GitHUb.
+- 👀 I’m interested in programming: HTML, CSS, JS, ReactJS.  
+- 🌱 I’m currently learning: WebServices, GraphQl, REST, SOAP.
+- 💞️ I’m looking to collaborate on React Apps Development.
 - 📫 How to reach me: dom.iurigarcia@gmail.com
 
 <!---
