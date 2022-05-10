@@ -1,12 +1,9 @@
-- 👋 Oi, I’m Iuri Garcia
-- 👀 I’m interested in programming: HTML, CSS, JS, ReactJS, Python.
-- 🌱 I’m currently learning: WebServices, GraphQl, REST, SOAP.
+## Bem-vindo(a) ao meu perfil 🌱
+
+- 👋 Hi, I’m Iuri Garcia
 - 📫 How to reach me: dom.iurigarcia@gmail.com
 
-
-## Bem-vindo(a) ao perfil do DomGaga79 😁
-<style> a:hover {text-decoration:none;} </style>
-<a href='#' style="text-decoration:none">
+<a href='#'>
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domgaga79&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domgaga79&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -28,4 +25,4 @@
   ![Snake animation](https://github.com/domgaga79/domgaga79/blob/output/github-contribution-grid-snake.svg)
 
 </div>
- </a>
+</a>
