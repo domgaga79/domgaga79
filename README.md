@@ -1,5 +1,5 @@
 - 👋 Oi, I’m Iuri Garcia
-- 👀 I’m interested in programming: HTML, CSS, JS, ReactJS.  
+- 👀 I’m interested in programming: HTML, CSS, JS, ReactJS, Python.
 - 🌱 I’m currently learning: WebServices, GraphQl, REST, SOAP.
 - 📫 How to reach me: dom.iurigarcia@gmail.com
 
