@@ -8,6 +8,17 @@ Minha trajetória profissional reúne **desenvolvimento de sistemas, tecnologia,
 
 ---
 
+## Projetos em destaque
+
+- [Condominaria](https://github.com/domgaga79/condominaria) · Gestão de condomínios.
+- [Comandaria](https://github.com/domgaga79/comandaria) · Gestão de comandas, pedidos e atendimento.
+- [Mecânica](https://github.com/domgaga79/mecanica) · Gestão de oficinas e serviços.
+- [Agenda App](https://github.com/domgaga79/agenda-app) · Sistema de agenda.
+- [Order Management API](https://github.com/domgaga79/order-management-api) · API de gestão de pedidos.
+- [ChildCareTimeline](https://github.com/domgaga79/ChildCareTimeline) · Linha do tempo de cuidados infantis.
+
+---
+
 ## 🚀 Sobre mim
 
 Tenho experiência em diferentes etapas do ciclo de desenvolvimento de software:
